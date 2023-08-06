@@ -1,0 +1,9 @@
+2023-08-06 02:07:27.152134 - Initialized conversion of CBT189
+2023-08-06 02:07:27.194889 - Received CBT.V505.FILE189.PDS from FILE189.XMI 
+2023-08-06 02:07:27.197108 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:07:27.198145 - Found $SYMCMPR.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/$SYMCMPR
+2023-08-06 02:07:27.199344 - Found $UNCMPRS.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/$UNCMPRS
+2023-08-06 02:07:27.200396 - Found @FILE189.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/@FILE189
+2023-08-06 02:07:27.201301 - Found NSY001.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/NSY001
+2023-08-06 02:07:27.202268 - Found SJE331.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/SJE331
+2023-08-06 02:07:27.203182 - Found SJE331M.txt (text/plain) in CBT.V505.FILE189.PDS, moved to PDS/SJE331M
